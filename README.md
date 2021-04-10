@@ -1,9 +1,17 @@
-# Student-database-management
+# Student-database-management-system
 
-Creating User Management System
-1. Creating User Database
-2. Collecting User info from front end forms
-3. Showing user info in table
-4. Updating user info from front end forms
-5. Implementing Rest API from NODE and Express to handle user requests to Creating User, Updating User, Reading users, Deleting users.
- this was created by ES6 Javascript
+## How to use:
+* Install dependencies
+  * `npm install`
+* Run mongodb
+* Run index.js
+  * `node index.js`
+
+
+## Functionalities:
+
+* Add Students
+* Delete Students
+* Update Students
+* View All Students
+* Search For Students
